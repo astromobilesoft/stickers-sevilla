@@ -1,0 +1,12 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.sevilla",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"europaleague2122d1",
+         "name":"vs D. Zagreb",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      }
+   ]
+}
