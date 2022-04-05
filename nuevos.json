@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"juleskounde1",
+         "name":"Jules Kounde",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lucasocampos1",
+         "name":"Lucas Ocampos",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"europaleague2122o1",
          "name":"vs West Ham",
          "animated_sticker_pack":false,
