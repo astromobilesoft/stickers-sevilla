@@ -3,18 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"worldcup2022spain2",
-         "name":"España 2022 (1)",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
-         "identifier":"worldcup2022spain3",
-         "name":"España 2022 (2)",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
          "identifier":"worldcup2022GEspainvscostarica1",
          "name":"España vs Costa Rica (1)",
          "animated_sticker_pack":false,
