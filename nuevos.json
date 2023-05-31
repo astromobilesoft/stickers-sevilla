@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"uel2223f1a",
+         "name":"vs Roma (1)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"uel2223f1b",
+         "name":"vs Roma (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"uel2223f2",
          "name":"vs Juventus",
          "animated_sticker_pack":false,
