@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"euro2024fg3",
+         "name":"vs Albania",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024fg2",
+         "name":"vs Italia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"euro2024fg1",
          "name":"vs Croacia",
          "animated_sticker_pack":false,
