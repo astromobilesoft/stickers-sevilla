@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"euro2024w1",
+         "name":"España Campeón",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"euro2024f1",
+         "name":"vs Inglaterra",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"euro2024s1",
          "name":"vs Francia",
          "animated_sticker_pack":false,
