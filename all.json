@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2526a",
+         "name":"Camiseta 25-26 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kit2526b",
+         "name":"Camiseta 25-26 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kit2526c",
+         "name":"Camiseta 24-25 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },      
+      {
          "identifier":"kit2425a",
          "name":"Camiseta 24-25 (1)",
          "animated_sticker_pack":false,
